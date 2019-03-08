@@ -22,5 +22,9 @@ features = [
   'HtmlElement',
   'HtmlInputElement',
   'FileList',
-  'File'
+  'File',
+  'FileReader',
+  'InputEvent',
+  'Blob',
+  'HtmlImageElement'
 ]
